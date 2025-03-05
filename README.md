@@ -6,8 +6,15 @@ Welcome to the **Java Number Problems** repository! 🚀 This repository contain
 - ✅ Palindrome
 - ✅ Armstrong Number
 - ✅ Prime Number
-- ✅ Odd Or Even Number
-- ✅ Positive Or Negative Number
-- ✅ Palindrome Numbers in a range
+- ✅ Odd or Even Number
+- ✅ Positive or Negative Number
+- ✅ Palindrome Numbers in a given range
 - ✅ Sum of 'n' Natural Numbers
-- ✅ Leap Year Or Not
+- ✅ Leap Year or not
+- ✅ Prime Numbers in a given range
+- ✅ Greatest of two numbers
+- ✅ Greatest of three numbers
+- ✅ Area of circle
+- ✅ Sum of digits
+- ✅ Replace 0's with 1's in a number
+- ✅ Maximum and Minimum digit in a number
